@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "mov_rate": -0.21 }, "geometry": { "type": "Point", "coordinates": [ 153.615885743409734, -28.705321850727412 ] } },
+{ "type": "Feature", "properties": { "mov_rate": -0.68 }, "geometry": { "type": "Point", "coordinates": [ 153.615053681016832, -28.704809626171038 ] } },
+{ "type": "Feature", "properties": { "mov_rate": -0.38 }, "geometry": { "type": "Point", "coordinates": [ 153.614784262273162, -28.704057624460376 ] } },
+{ "type": "Feature", "properties": { "mov_rate": -1.24 }, "geometry": { "type": "Point", "coordinates": [ 153.614311841340651, -28.703272670631844 ] } },
+{ "type": "Feature", "properties": { "mov_rate": -1.03 }, "geometry": { "type": "Point", "coordinates": [ 153.614108864915437, -28.702527007004722 ] } },
+{ "type": "Feature", "properties": { "mov_rate": 0.49 }, "geometry": { "type": "Point", "coordinates": [ 153.613713480091917, -28.701713620704336 ] } },
+{ "type": "Feature", "properties": { "mov_rate": 1.37 }, "geometry": { "type": "Point", "coordinates": [ 153.613745392523128, -28.700912884879429 ] } },
+{ "type": "Feature", "properties": { "mov_rate": 0.08 }, "geometry": { "type": "Point", "coordinates": [ 153.613416202426436, -28.700079861915391 ] } },
+{ "type": "Feature", "properties": { "mov_rate": 0.07 }, "geometry": { "type": "Point", "coordinates": [ 153.613527179636407, -28.699286312484158 ] } },
+{ "type": "Feature", "properties": { "mov_rate": 0.78 }, "geometry": { "type": "Point", "coordinates": [ 153.61324701160612, -28.698445736455952 ] } },
+{ "type": "Feature", "properties": { "mov_rate": 0.94 }, "geometry": { "type": "Point", "coordinates": [ 153.613411287306604, -28.697626451916253 ] } },
+{ "type": "Feature", "properties": { "mov_rate": 0.28 }, "geometry": { "type": "Point", "coordinates": [ 153.613355916945977, -28.696741995405638 ] } },
+{ "type": "Feature", "properties": { "mov_rate": 0.95 }, "geometry": { "type": "Point", "coordinates": [ 153.613535861989504, -28.695910781258164 ] } }
+]
+}
