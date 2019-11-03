@@ -2,6 +2,8 @@
 
 Challenge addressed: Mapping Coastal Erosion Over Time (Challenge 4)
 
+Live Demo: http://13.239.135.65/
+
 Youtube Demo: https://www.youtube.com/watch?v=hLYABdl0ap4&feature=youtu.be
 
 Coastal Stories is a webapp designed to promote understanding of how coastal erosion is affecting Indigenous communities. 
