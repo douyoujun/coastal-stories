@@ -21,3 +21,6 @@ While the challenge was proposed by members of the Awabakal community in Newcast
 Processing of the Landsat Collection 3 upgrade is currently ongoing, and once available, it would be possible to expand Coastal Stories to measure the rate of coastal erosion around the entire Australian coastline. 
 This would be coupled with an expansion of the website that would allow Indigenous communities to submit and curate their own sacred sites and stories about the land. 
 Coastal Stories would then become a tool to preserve and share the cultural heritage of coastal indigenous communities, as well as allowing them to advocate for the protection and maintainence of sites threatened by coastal change.
+
+The change in coastline is the work of Robbi Bishop-Taylor as part of Digital Earth Australia: 
+For more information, refer to the journal articcal `Bishop-Taylor et al. 2019` (https://doi.org/10.1016/j.ecss.2019.03.006)
